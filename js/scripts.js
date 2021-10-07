@@ -1,3 +1,4 @@
+alert("crea la tua password")
 const nomeUser = prompt("Inserisci il tuo nome.")
 console.log("nome" ,nomeUser )
 
@@ -7,4 +8,4 @@ console.log("cognome" ,cognomeUser )
 const coloreUser = prompt("Inserisci il tuo colore.")
 console.log("colore preferito" ,coloreUser )
 
-alert(nomeUser + cognomeUser + coloreUser + 21)
+alert("password: " + nomeUser + cognomeUser + coloreUser + 21)
