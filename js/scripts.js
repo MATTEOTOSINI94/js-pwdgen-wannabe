@@ -9,4 +9,4 @@ console.log("cognome", cognomeUser)
 const coloreUser = prompt("Inserisci il tuo colore.")
 console.log("colore preferito", coloreUser)
 
-alert("password: "+ nomeUser + cognomeUser + coloreUser + 21)
+alert("password: "+ nomeUser + cognomeUser + coloreUser + "21")
